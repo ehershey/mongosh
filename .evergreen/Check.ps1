@@ -1,5 +1,5 @@
 $ErrorActionPreference = "Stop"
 
-.\SetupEnv
+.\.evergreen\SetupEnv
 
 npm run check-ci
